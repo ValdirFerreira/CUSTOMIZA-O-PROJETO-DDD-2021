@@ -1,0 +1,15 @@
+C:\Projetos\AULA_API_DDD_2021\API_DDD_2021\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Projetos\AULA_API_DDD_2021\API_DDD_2021\Entidades\bin\Debug\net5.0\Entidades.runtimeconfig.json
+C:\Projetos\AULA_API_DDD_2021\API_DDD_2021\Entidades\bin\Debug\net5.0\Entidades.runtimeconfig.dev.json
+C:\Projetos\AULA_API_DDD_2021\API_DDD_2021\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Projetos\AULA_API_DDD_2021\API_DDD_2021\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Projetos\AULA_API_DDD_2021\API_DDD_2021\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Projetos\AULA_API_DDD_2021\API_DDD_2021\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Projetos\AULA_API_DDD_2021\API_DDD_2021\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AULA_API_DDD_2021\API_DDD_2021\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Projetos\AULA_API_DDD_2021\API_DDD_2021\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Projetos\AULA_API_DDD_2021\API_DDD_2021\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Projetos\AULA_API_DDD_2021\API_DDD_2021\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Projetos\AULA_API_DDD_2021\API_DDD_2021\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Projetos\AULA_API_DDD_2021\API_DDD_2021\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Projetos\AULA_API_DDD_2021\API_DDD_2021\Entidades\obj\Debug\net5.0\Entidades.genruntimeconfig.cache
